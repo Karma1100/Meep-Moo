@@ -2,16 +2,29 @@
 
 :root{
     --color-background: #e1f1f7;
+    --color-logo: #00072D; 
+}
+*{
 
+    box-sizing: border-box;
+    font-family: note-serif;
+}
+body{
+    background-color: var(--color-background);
+}
+nav{
+    justify-content: space-between;
+    display: flex;
+    padding: 0 80px;
 
+}
+nav a.logo{
+    font-weight: 500;
+    font-size: 33px;
+    color: var(--color-logo);
 
 
 }
-*{
-    margin: 0;
-    padding: 0;
-
-
-
-
+nav .links a:not(:last-child){
+    margin-right: 20px;
 }
