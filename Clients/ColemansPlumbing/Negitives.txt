@@ -1,0 +1,24 @@
+Negitives:
+	Home-Page:
+		1) Whats the point in all of the services just being linked to the service page, not something more?
+		2) Page is stiff, blocky and redundant 
+		3) Schedule Sercive is not the first thing you see, its in the corner
+	Services:
+		1) Whats the point in listing the services if you have them on the home page
+		2) Nothing is being added
+	About:
+		1) It doesent tell me anything that I dont already know from the home page
+		2) No reviews, doesent tell me who company is or any personality
+		3) Reuses same images
+	Special-Offers:
+		1) why is it on its own tab?
+		2) No use, integrate it into customer profile
+		
+Positives:
+	Its a web site
+
+Improvements:
+	Home-Page:
+		1) Put scheduleing front and center
+		2) Gte rid of blocky design
+		3) 
